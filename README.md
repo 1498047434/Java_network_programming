@@ -2,6 +2,5 @@
 
 ## 第八章
 DaytimeClient.java   --- 通过Socket获取网络时间
-
 Daytime.java  --- 通过Socket获取网络时间，创建Date
 
