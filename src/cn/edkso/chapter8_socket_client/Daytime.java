@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * 通过time.nist.gov对话构造一个Date
+ * 通过Socket获取网络时间，创建Date
  */
 public class Daytime {
 

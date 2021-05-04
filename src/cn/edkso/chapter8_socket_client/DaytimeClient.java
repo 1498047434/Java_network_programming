@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 
 /**
- * Daytime协议客户端
+ * 通过Socket获取网络时间
  */
 public class DaytimeClient {
 
